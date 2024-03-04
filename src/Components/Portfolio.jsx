@@ -26,7 +26,7 @@ const Portfolio = () => {
     };
 
     fetchData();
-  }, []);
+  }, [selectedCurrency]);
 
   useEffect(() => {
     const calculateTotalValue = () => {

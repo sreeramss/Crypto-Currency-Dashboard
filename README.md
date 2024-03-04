@@ -16,8 +16,6 @@ The Crypto Currency Dashboard allows users to view exchange rates for various cr
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 
 
 ## Introduction

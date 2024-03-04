@@ -2,6 +2,8 @@
 
 This repository contains the source code for a cryptocurrency dashboard web application built with React.
 
+![Cryptocurrency-dashboard](https://github.com/sreeramss/Crypto-Currency-Dashboard/assets/89720320/055efc64-db02-4159-91e4-7f3c47f253d5)
+
 ## Overview
 
 The Crypto Currency Dashboard allows users to view exchange rates for various cryptocurrencies and perform currency conversions. It utilizes the CoinGecko API to fetch real-time exchange rate data.
